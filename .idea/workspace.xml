@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="740bf46b-992a-43c1-a30d-cd9a51b3c069" name="默认变更列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\Java\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.8.4" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.8.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2EQs6fNdmzg7dHgoKcZWqMZ2sqc" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../idea/bingfa/JUC/pom.xml" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="应用程序.Test7">
+    <configuration name="Test4_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week6.Test4_5" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week6.Test5" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test5_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week6.Test5_6" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week6.Test6" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week6.Test7" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.Test7" />
+        <item itemvalue="应用程序.Test6" />
+        <item itemvalue="应用程序.Test5_6" />
+        <item itemvalue="应用程序.Test5" />
+        <item itemvalue="应用程序.Test4_5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="740bf46b-992a-43c1-a30d-cd9a51b3c069" name="默认变更列表" comment="" />
+      <created>1662538971080</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662538971080</updated>
+      <workItem from="1662538972240" duration="4035000" />
+      <workItem from="1662595655034" duration="3927000" />
+      <workItem from="1662689057384" duration="9936000" />
+      <workItem from="1662818750761" duration="3833000" />
+      <workItem from="1662822991507" duration="1851000" />
+      <workItem from="1663042172576" duration="10943000" />
+      <workItem from="1663129404925" duration="11879000" />
+      <workItem from="1663199484899" duration="96000" />
+      <workItem from="1663200327169" duration="3800000" />
+      <workItem from="1663206471883" duration="52000" />
+      <workItem from="1663263445151" duration="625000" />
+      <workItem from="1663311523978" duration="854000" />
+      <workItem from="1663433339214" duration="4272000" />
+      <workItem from="1663473188819" duration="1970000" />
+      <workItem from="1663497742906" duration="54000" />
+      <workItem from="1663562289184" duration="4071000" />
+      <workItem from="1663567191034" duration="1097000" />
+      <workItem from="1663658492853" duration="5143000" />
+      <workItem from="1663673492014" duration="725000" />
+      <workItem from="1663733889393" duration="2704000" />
+      <workItem from="1663737408039" duration="8665000" />
+      <workItem from="1663806266737" duration="4192000" />
+      <workItem from="1663913540265" duration="213000" />
+      <workItem from="1663915954320" duration="1208000" />
+      <workItem from="1663926977753" duration="1944000" />
+      <workItem from="1663958803312" duration="425000" />
+      <workItem from="1664024287113" duration="9144000" />
+      <workItem from="1664096943359" duration="2412000" />
+      <workItem from="1664099560279" duration="1253000" />
+      <workItem from="1664164738111" duration="4750000" />
+      <workItem from="1664175955394" duration="8174000" />
+      <workItem from="1664187243187" duration="19000" />
+      <workItem from="1664209945975" duration="809000" />
+      <workItem from="1664248327642" duration="20000" />
+      <workItem from="1664288723378" duration="4462000" />
+      <workItem from="1664343876681" duration="166000" />
+      <workItem from="1664418631646" duration="6758000" />
+      <workItem from="1664496354457" duration="2040000" />
+      <workItem from="1664519870256" duration="2239000" />
+      <workItem from="1664522960999" duration="3000" />
+      <workItem from="1664543641980" duration="30000" />
+      <workItem from="1664683280530" duration="5784000" />
+      <workItem from="1664946608203" duration="7928000" />
+      <workItem from="1665023881489" duration="10507000" />
+      <workItem from="1665072295835" duration="69000" />
+      <workItem from="1665131276182" duration="7413000" />
+      <workItem from="1665159474240" duration="412000" />
+      <workItem from="1665188602072" duration="4560000" />
+      <workItem from="1665239779515" duration="28000" />
+      <workItem from="1665242181448" duration="396000" />
+      <workItem from="1665276706544" duration="10456000" />
+      <workItem from="1665381002147" duration="10710000" />
+      <workItem from="1665460923247" duration="3648000" />
+      <workItem from="1665504885185" duration="231000" />
+      <workItem from="1665550727371" duration="2552000" />
+      <workItem from="1665554715182" duration="277000" />
+      <workItem from="1665636710656" duration="421000" />
+      <workItem from="1665641396483" duration="3304000" />
+      <workItem from="1665646341210" duration="121000" />
+      <workItem from="1665730837629" duration="69000" />
+      <workItem from="1665731560598" duration="3592000" />
+      <workItem from="1665736659215" duration="1766000" />
+      <workItem from="1665742995948" duration="28000" />
+      <workItem from="1665804689712" duration="2034000" />
+      <workItem from="1665900005001" duration="3867000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/week2/Test2.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,6 +1,9 @@
 package week8;
 
 import javax.annotation.PostConstruct;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
 
 /**
  * @author 古丶野
@@ -11,9 +14,11 @@ import javax.annotation.PostConstruct;
  */
 public class Test {
     public static void main(String[] args) {
-        String s = "sss";
-        String s1 = "s";
-        System.out.println(s == s1);
+        List<String> strings =  Collections.singletonList("");
+        for (String s : strings) {
+            System.out.println("1");
+            System.out.println(s);
+        }
     }
     
 }

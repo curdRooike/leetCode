@@ -2,10 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="740bf46b-992a-43c1-a30d-cd9a51b3c069" name="默认变更列表" comment="力扣简单题第8周">
-      <change afterPath="$PROJECT_DIR$/src/week8/Test8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week8/Test8_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/SoutUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week9/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week9/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week9/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week9/Test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week9/Test5_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week9/Test6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week9/Test7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week8/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week8/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week6/Test7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week6/Test7.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,17 +56,30 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hanju-backstage/pom.xml" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="应用程序.Test8_1">
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week8.Test" />
+  <component name="RunManager" selected="应用程序.Test7 (1)">
+    <configuration name="Test5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week9.Test5" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week8.*" />
+          <option name="PATTERN" value="week9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test5_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week9.Test5_1" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,11 +88,11 @@
       </method>
     </configuration>
     <configuration name="Test6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week8.Test6" />
+      <option name="MAIN_CLASS_NAME" value="week9.Test6" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week8.*" />
+          <option name="PATTERN" value="week9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test7_dp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week8.Test7_dp" />
+    <configuration name="Test7 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week9.Test7" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week8.*" />
+          <option name="PATTERN" value="week9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,25 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week8.Test8" />
+    <configuration name="Test7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week6.Test7" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test8_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week8.Test8_1" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week8.*" />
+          <option name="PATTERN" value="week6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.Test8_1" />
-        <item itemvalue="应用程序.Test8" />
-        <item itemvalue="应用程序.Test" />
-        <item itemvalue="应用程序.Test7_dp" />
+        <item itemvalue="应用程序.Test7 (1)" />
         <item itemvalue="应用程序.Test6" />
+        <item itemvalue="应用程序.Test5_1" />
+        <item itemvalue="应用程序.Test5" />
+        <item itemvalue="应用程序.Test7" />
       </list>
     </recent_temporary>
   </component>
@@ -238,7 +244,18 @@
       <workItem from="1666881865350" duration="70000" />
       <workItem from="1666930772977" duration="4183000" />
       <workItem from="1666945092784" duration="355000" />
-      <workItem from="1667123574639" duration="5494000" />
+      <workItem from="1667123574639" duration="5800000" />
+      <workItem from="1667183675283" duration="605000" />
+      <workItem from="1667200191575" duration="1378000" />
+      <workItem from="1667208232907" duration="1994000" />
+      <workItem from="1667213730810" duration="25000" />
+      <workItem from="1667381589295" duration="4972000" />
+      <workItem from="1667398168848" duration="15000" />
+      <workItem from="1667407584125" duration="3221000" />
+      <workItem from="1667439921996" duration="8293000" />
+      <workItem from="1667493236545" duration="4054000" />
+      <workItem from="1667642133283" duration="6112000" />
+      <workItem from="1667746875484" duration="1572000" />
     </task>
     <task id="LOCAL-00001" summary="力扣简单题第一个月">
       <created>1665904048034</created>
@@ -261,7 +278,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666945218107</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="力扣简单题第8周">
+      <created>1667132458241</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667132458241</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -29,7 +29,7 @@ public class Test7 {
         }
         return next[n] > 0 && (n % (n - next[n]) == 0);
     }
-    /*  public boolean repeatedSubstringPattern(String s) {
+     /* public boolean repeatedSubstringPattern(String s) {
         if (s.equals("")) return false;
 
         int len = s.length();

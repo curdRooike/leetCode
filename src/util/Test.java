@@ -9,7 +9,11 @@ package util;
  */
 public class Test {
     public static void main(String[] args) {
-        String s = "0";
-        Integer a = Integer.valueOf(s);
+        Integer a = 130;
+        Integer b = 130;
+        Integer f = 1;
+        int c = 130;
+        int e = 1;
+        System.out.println(a == c);
     }
 }

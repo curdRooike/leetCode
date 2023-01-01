@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="740bf46b-992a-43c1-a30d-cd9a51b3c069" name="默认变更列表" comment="力扣简单题第13周(课设)">
-      <change afterPath="$PROJECT_DIR$/src/week14/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week14/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week14/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week14/Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week14/Test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week14/Test5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week14/Test6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week14/Test7.java" afterDir="false" />
+    <list default="true" id="740bf46b-992a-43c1-a30d-cd9a51b3c069" name="默认变更列表" comment="力扣简单题第14周(学期结束，假期恢复正常)">
+      <change afterPath="$PROJECT_DIR$/src/week15/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week15/first2023.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week15/last2022.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +33,16 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/curdRooike/leetCode" />
+      </set>
+    </option>
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -62,39 +67,13 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="应用程序.Test7">
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week14.Test2" />
+  <component name="RunManager" selected="应用程序.first2023">
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week15.Test1" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week14.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week14.Test3" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week14.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week14.Test4" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week14.*" />
+          <option name="PATTERN" value="week15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,6 +107,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="first2023" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week15.first2023" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="last2022" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week15.last2022" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -141,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.first2023" />
+        <item itemvalue="应用程序.last2022" />
+        <item itemvalue="应用程序.Test1" />
         <item itemvalue="应用程序.Test7" />
         <item itemvalue="应用程序.Test5" />
-        <item itemvalue="应用程序.Test4" />
-        <item itemvalue="应用程序.Test3" />
-        <item itemvalue="应用程序.Test2" />
       </list>
     </recent_temporary>
   </component>
@@ -306,7 +311,9 @@
       <workItem from="1672046296489" duration="1144000" />
       <workItem from="1672054276599" duration="1741000" />
       <workItem from="1672115302409" duration="671000" />
-      <workItem from="1672213403317" duration="1536000" />
+      <workItem from="1672213403317" duration="1794000" />
+      <workItem from="1672296272703" duration="5170000" />
+      <workItem from="1672578038080" duration="1199000" />
     </task>
     <task id="LOCAL-00001" summary="力扣简单题第一个月">
       <created>1665904048034</created>
@@ -371,7 +378,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670811765935</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="力扣简单题第14周(学期结束，假期恢复正常)">
+      <created>1672215433544</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1672215433544</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -398,6 +412,7 @@
     <MESSAGE value="力扣简单题第11周(考试周)" />
     <MESSAGE value="力扣简单题第12周(课设耽误)" />
     <MESSAGE value="力扣简单题第13周(课设)" />
-    <option name="LAST_COMMIT_MESSAGE" value="力扣简单题第13周(课设)" />
+    <MESSAGE value="力扣简单题第14周(学期结束，假期恢复正常)" />
+    <option name="LAST_COMMIT_MESSAGE" value="力扣简单题第14周(学期结束，假期恢复正常)" />
   </component>
 </project>

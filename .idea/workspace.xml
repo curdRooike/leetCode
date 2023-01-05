@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="740bf46b-992a-43c1-a30d-cd9a51b3c069" name="默认变更列表" comment="力扣简单题第14周(学期结束，假期恢复正常)">
-      <change afterPath="$PROJECT_DIR$/src/week15/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week15/first2023.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week15/last2022.java" afterDir="false" />
+    <list default="true" id="740bf46b-992a-43c1-a30d-cd9a51b3c069" name="默认变更列表" comment="祝2023找到一个好工作">
+      <change afterPath="$PROJECT_DIR$/src/week15/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week15/Test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week15/Test6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week15/Test7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,9 +68,9 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="应用程序.first2023">
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week15.Test1" />
+  <component name="RunManager" selected="应用程序.Test7">
+    <configuration name="Test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week15.Test4" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -82,11 +83,24 @@
       </method>
     </configuration>
     <configuration name="Test5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week14.Test5" />
+      <option name="MAIN_CLASS_NAME" value="week15.Test5" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week14.*" />
+          <option name="PATTERN" value="week15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week15.Test6" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,11 +109,11 @@
       </method>
     </configuration>
     <configuration name="Test7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week14.Test7" />
+      <option name="MAIN_CLASS_NAME" value="week15.Test7" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week14.*" />
+          <option name="PATTERN" value="week15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,37 +134,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="last2022" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week15.last2022" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week15.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.first2023" />
-        <item itemvalue="应用程序.last2022" />
-        <item itemvalue="应用程序.Test1" />
         <item itemvalue="应用程序.Test7" />
+        <item itemvalue="应用程序.Test6" />
         <item itemvalue="应用程序.Test5" />
+        <item itemvalue="应用程序.Test4" />
+        <item itemvalue="应用程序.first2023" />
       </list>
     </recent_temporary>
   </component>
@@ -313,7 +303,12 @@
       <workItem from="1672115302409" duration="671000" />
       <workItem from="1672213403317" duration="1794000" />
       <workItem from="1672296272703" duration="5170000" />
-      <workItem from="1672578038080" duration="1199000" />
+      <workItem from="1672578038080" duration="1490000" />
+      <workItem from="1672640436217" duration="8461000" />
+      <workItem from="1672734217472" duration="2575000" />
+      <workItem from="1672764534693" duration="22000" />
+      <workItem from="1672813853584" duration="2905000" />
+      <workItem from="1672921327548" duration="2079000" />
     </task>
     <task id="LOCAL-00001" summary="力扣简单题第一个月">
       <created>1665904048034</created>
@@ -385,7 +380,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672215433544</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="祝2023找到一个好工作">
+      <created>1672579571348</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1672579571348</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -413,6 +415,7 @@
     <MESSAGE value="力扣简单题第12周(课设耽误)" />
     <MESSAGE value="力扣简单题第13周(课设)" />
     <MESSAGE value="力扣简单题第14周(学期结束，假期恢复正常)" />
-    <option name="LAST_COMMIT_MESSAGE" value="力扣简单题第14周(学期结束，假期恢复正常)" />
+    <MESSAGE value="祝2023找到一个好工作" />
+    <option name="LAST_COMMIT_MESSAGE" value="祝2023找到一个好工作" />
   </component>
 </project>

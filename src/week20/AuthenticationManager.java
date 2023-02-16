@@ -15,7 +15,7 @@ public class AuthenticationManager {
      Map<String, Integer> map;
     public AuthenticationManager(int timeToLive) {
         this.timeToLive = timeToLive;
-        this.map = new HashMap<String, Integer>();
+        this.map = new HashMap<>();
     }
 
     public void generate(String tokenId, int currentTime) {

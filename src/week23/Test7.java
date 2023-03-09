@@ -22,6 +22,7 @@ public class Test7 {
         StringBuilder sb = new StringBuilder("0.");
         int flag = 0;
         while (num > 0) {
+            System.out.println(sb);
             num *=2;
             if (num >= 1){
                 sb.append((num+"").charAt(0));
@@ -29,7 +30,7 @@ public class Test7 {
             }else {
                 sb.append(0);
             }
-            if (++flag >= 7) {
+            if (++flag == 7) {
                 return "ERROR";
             }
         }

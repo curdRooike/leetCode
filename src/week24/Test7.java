@@ -17,6 +17,7 @@ public class Test7 {
             cnt += blocks.charAt(r) == 'W' ? 1 : 0;
             r++;
         }
+        System.out.println(cnt);
         int res = cnt;
         while (blocks.length() > r) {
             cnt += blocks.charAt(r) == 'W' ? 1 : 0;

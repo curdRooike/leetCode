@@ -1,10 +1,6 @@
 package week25;
 
-import util.SoutUtil;
-
-import java.util.Arrays;
 import java.util.HashMap;
-import java.util.HashSet;
 import java.util.Map;
 
 /**
@@ -16,8 +12,8 @@ import java.util.Map;
  */
 public class Test1 {
     public static void main(String[] args) {
-        int []a = {1000000000,1000000000,1000000000};
-        System.out.println(new Test1().minSubarray(a, 3));
+        int []a = {3,1,4,2};
+        System.out.println(new Test1().minSubarray(a, 6));
     }
    /* public int minSubarray(int[] nums, int p) {
         int count = 0, s = 0;
@@ -52,7 +48,7 @@ public class Test1 {
        if (x == 0) {
            return 0;
        }
-       Map<Integer, Integer> index = new HashMap<Integer, Integer>();
+       Map<Integer, Integer> index = new HashMap<>();
        int y = 0, res = nums.length;
        for (int i = 0; i < nums.length; i++) {
            index.put(y, i); // f[i] mod p = y，因此哈希表记录 y 对应的下标为 i
@@ -61,6 +57,7 @@ public class Test1 {
                res = Math.min(res, i - index.get((y - x + p) % p) + 1);
            }
        }
+       System.out.println(index);
        return res == nums.length ? -1 : res;
    }
 

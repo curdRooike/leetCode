@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="740bf46b-992a-43c1-a30d-cd9a51b3c069" name="默认变更列表" comment="2023年 第十一周">
+    <list default="true" id="740bf46b-992a-43c1-a30d-cd9a51b3c069" name="默认变更列表" comment="2023年 第十二周">
       <change afterPath="$PROJECT_DIR$/src/week26/Test1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/week26/Test2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/week26/Test2_2.java" afterDir="false" />
@@ -453,7 +453,7 @@
       <workItem from="1679529943793" duration="4708000" />
       <workItem from="1679542460767" duration="5225000" />
       <workItem from="1679568466174" duration="5773000" />
-      <workItem from="1679587189241" duration="6621000" />
+      <workItem from="1679587189241" duration="6933000" />
     </task>
     <task id="LOCAL-00001" summary="力扣简单题第一个月">
       <created>1665904048034</created>
@@ -616,7 +616,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679144323587</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="2023年 第十二周">
+      <created>1679597000882</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1679597000882</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -655,7 +662,8 @@
     <MESSAGE value="2023年 第八周" />
     <MESSAGE value="2023年 第九周" />
     <MESSAGE value="2023年 第十一周" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023年 第十一周" />
+    <MESSAGE value="2023年 第十二周" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023年 第十二周" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

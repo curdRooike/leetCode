@@ -15,7 +15,7 @@ public class Test7 {
        int n = s.length();
        int i = 0;
         for (int j = 1,k = 0; j + k < n;) {
-            int d = s.charAt(i + k) - s.charAt(j + k);
+            int  d = s.charAt(i + k) - s.charAt(j + k);
             if (d == 0) {
                 k++;
             }else if (d < 0){

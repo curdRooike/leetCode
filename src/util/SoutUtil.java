@@ -14,4 +14,11 @@ public class SoutUtil {
         }
         System.out.println();
     }
+    public static void ArrayOutNoZero(int[] a) {
+        for (int i = 0; i < a.length; i++) {
+            if (a[i] != 0)
+                System.out.print(i+"\t");
+        }
+        System.out.println();
+    }
 }

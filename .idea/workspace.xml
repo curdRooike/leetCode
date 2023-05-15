@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="740bf46b-992a-43c1-a30d-cd9a51b3c069" name="默认变更列表" comment="2023年 第十八周">
-      <change afterPath="$PROJECT_DIR$/src/week33/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week33/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week33/Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week33/Test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week33/Test5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week33/Test6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week33/Test7.java" afterDir="false" />
+    <list default="true" id="740bf46b-992a-43c1-a30d-cd9a51b3c069" name="默认变更列表" comment="2023年 第十九周">
+      <change afterPath="$PROJECT_DIR$/src/week34/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week34/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week34/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week34/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week34/Test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week34/Test6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week34/Test7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/util/SoutUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/util/SoutUtil.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,11 +79,11 @@
   </component>
   <component name="RunManager" selected="应用程序.Test7">
     <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week33.Test3" />
+      <option name="MAIN_CLASS_NAME" value="week34.Test3" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week33.*" />
+          <option name="PATTERN" value="week34.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,11 +92,11 @@
       </method>
     </configuration>
     <configuration name="Test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week33.Test4" />
+      <option name="MAIN_CLASS_NAME" value="week34.Test4" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week33.*" />
+          <option name="PATTERN" value="week34.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,11 +105,11 @@
       </method>
     </configuration>
     <configuration name="Test5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week33.Test5" />
+      <option name="MAIN_CLASS_NAME" value="week34.Test5" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week33.*" />
+          <option name="PATTERN" value="week34.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +118,11 @@
       </method>
     </configuration>
     <configuration name="Test6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week33.Test6" />
+      <option name="MAIN_CLASS_NAME" value="week34.Test6" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week33.*" />
+          <option name="PATTERN" value="week34.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +131,11 @@
       </method>
     </configuration>
     <configuration name="Test7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week33.Test7" />
+      <option name="MAIN_CLASS_NAME" value="week34.Test7" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week33.*" />
+          <option name="PATTERN" value="week34.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -514,7 +513,16 @@
       <workItem from="1683438453858" duration="602000" />
       <workItem from="1683511375170" duration="953000" />
       <workItem from="1683512350709" duration="24000" />
-      <workItem from="1683596170306" duration="3518000" />
+      <workItem from="1683596170306" duration="3586000" />
+      <workItem from="1683683768595" duration="2921000" />
+      <workItem from="1683741338219" duration="815000" />
+      <workItem from="1683768835611" duration="3530000" />
+      <workItem from="1683824265253" duration="1885000" />
+      <workItem from="1683870505594" duration="187000" />
+      <workItem from="1683908175189" duration="1555000" />
+      <workItem from="1684053532982" duration="4052000" />
+      <workItem from="1684079415396" duration="2225000" />
+      <workItem from="1684128021081" duration="1377000" />
     </task>
     <task id="LOCAL-00001" summary="力扣简单题第一个月">
       <created>1665904048034</created>
@@ -733,7 +741,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683054830990</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="2023年 第十九周">
+      <created>1683600147637</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1683600147637</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -753,7 +768,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="力扣简单题第七周" />
     <MESSAGE value="力扣简单题第8周" />
     <MESSAGE value="力扣简单题第9周" />
     <MESSAGE value="力扣简单题第10周" />
@@ -778,7 +792,8 @@
     <MESSAGE value="2023年 第十六周" />
     <MESSAGE value="2023年 第十七周" />
     <MESSAGE value="2023年 第十八周" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023年 第十八周" />
+    <MESSAGE value="2023年 第十九周" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023年 第十九周" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
